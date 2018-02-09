@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DWGpdf</string>
+    <string name="Configuration">Configuration</string>
+    <string name="Server">Server</string>
+    <string name="Port">Port</string>
+    <string name="Database">Database</string>
+    <string name="User">User</string>
+    <string name="Password">Password</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="refClient">Ref. Cliente</string>
+    <string name="refCod">Ref. Cód</string>
+    <string name="denomination">Denominação</string>
+    <string name="typeMaterial">Tipo de Material</string>
+    <string name="client">Cliente</string>
+    <string name="revision">Revisão</string>
+</resources>
