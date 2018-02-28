@@ -17,8 +17,7 @@ import android.widget.TextView;
 
 public class DetailFragment extends Fragment {
 
-    SharedPreferences sharedPreferences;
-
+    public static final String TAG = "detail";
     private static final String detailCache = "detailCache";
 
     private static final String textRefCod = "text_ref_cod";
@@ -27,11 +26,7 @@ public class DetailFragment extends Fragment {
     private static final String textTypeMaterial = "text_type_material";
     private static final String textDenomination = "text_denomination";
     private static final String textNameClient = "text_name_client";
-
-
-
-
-    public static final String TAG = "detail";
+    SharedPreferences sharedPreferences;
     //TextView _textViewClientName;
     TextView _textRefCod;
     TextView _textRefClient;
